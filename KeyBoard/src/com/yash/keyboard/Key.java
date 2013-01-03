@@ -4,6 +4,10 @@ import android.content.Context;
 import android.widget.Button;
 import android.widget.FrameLayout.LayoutParams;
 
+/**
+ * @author Yash Harpale
+ *
+ */
 public class Key extends Button {
 
 	public Key(Context context, MetaData metaData, int width) {

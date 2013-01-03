@@ -10,6 +10,11 @@ import android.widget.EditText;
 
 import com.yash.keyboard.KeyBoardView.OnKeyClicked;
 
+/**
+ * 
+ * @author Yash harpale
+ * 
+ */
 public class KeyBoardActivity extends Activity implements OnKeyClicked {
 	private KeyBoardView keyBoardView;
 	private EditText editText;

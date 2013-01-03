@@ -1,5 +1,9 @@
 package com.yash.keyboard;
 
+/**
+ * @author Yash Harpale
+ *
+ */
 public class MetaData {
 
 	private int value;

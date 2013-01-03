@@ -11,6 +11,10 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 
+/**
+ * @author Yash Harpale
+ *
+ */
 public class KeyBoardView extends LinearLayout implements OnClickListener {
 
 	public static final int DONE_KEY = 501;
